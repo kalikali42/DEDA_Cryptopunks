@@ -2,7 +2,7 @@
 Looking to explain the Cryptopunk prices with their features
 
 
-### Step Wise Regression File
+### Static Regression and Attibutes
 * Linear Regression 
 * Linear Regression without 0 sales averages
 * Feature Reduction 
